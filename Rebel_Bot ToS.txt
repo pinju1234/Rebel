@@ -1,0 +1,57 @@
+Terms of Service for Rebel_Bot
+Effective Date: 11/09/24
+Welcome to Rebel_Bot! By using this bot within any Discord server, you agree to comply
+with and be bound by the following terms of service. Please read these terms carefully.
+If you do not agree to these terms, do not use this bot.
+1. Description of Service
+Rebel_Bot is a bot designed for use within Discord servers. It allows users to retrieve
+specific TikTok posts on demand (manually), providing the requested media from TikTok
+via the TikTok API. The bot does not automate any requests, and all interactions are
+user-initiated.
+2. Agreement to Discord’s Terms of Service
+By using Rebel_Bot, you also agree to abide by Discord's Terms of Service and
+Community Guidelines. Any violation of Discord’s rules while using this bot may result
+in the removal of the bot from your server or other consequences as dictated by
+Discord’s policies.
+3. Agreement to TikTok’s Terms of Service
+Rebel_Bot interacts with TikTok’s platform via their API. By requesting TikTok content
+through this bot, you agree to TikTok’s Terms of Service and understand that TikTok’s
+content policies and rules apply to any media shared via the bot. This includes
+limitations on how the content can be used and shared.
+4. User Conduct
+You agree that you will not use Rebel_Bot to:
+• Retrieve, share, or otherwise engage with TikTok content in a way that violates
+TikTok’s policies or any applicable laws.
+• Harass, abuse, or offend any users while using the bot in any Discord server.
+• Use the bot for any form of commercial purposes or bulk data retrieval.
+Failure to comply with these conditions may result in banning from use of the bot or
+removal from your Discord server.
+5. Data Collection and Usage
+Rebel_Bot only collects minimal data necessary to function, which includes:
+• User requests for specific TikTok posts.
+• User IDs and Discord server IDs to process the requested information.
+No personal data beyond what is required for the functioning of the bot is stored or
+shared with third parties. The bot does not store TikTok media; it merely retrieves and
+presents it upon request.
+For more information about how your data is handled, please review our [Privacy
+Policy](Your Privacy Policy URL).
+6. Disclaimer of Warranties
+Rebel_Bot is provided "as-is" without any warranties, either expressed or implied. While
+we strive to keep the bot functional, we do not guarantee continuous, uninterrupted
+access to the bot or its services.
+7. Limitation of Liability
+Under no circumstances shall the creators or maintainers of Rebel_Bot be liable for any
+damages resulting from the use of the bot, including but not limited to misuse of TikTok
+content, server disruptions, or breaches of either TikTok’s or Discord’s terms of service.
+8. Termination
+We reserve the right to disable or remove Rebel_Bot from any Discord server at our
+discretion if these terms are violated, or if the bot is found to be misused in any way that
+violates either Discord’s or TikTok’s ToS.
+9. Changes to These Terms
+We may modify these Terms of Service at any time, and changes will be posted at [Your
+Terms URL]. Continued use of Rebel_Bot after any such modifications will constitute
+your acknowledgment of the modified terms.
+10. Contact Information
+If you have any questions or concerns about these Terms of Service, you can contact us
+at: yemumgay25@gmail.com
+
